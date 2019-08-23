@@ -1,0 +1,3 @@
+# Random Code Snippets
+
+## Logging
